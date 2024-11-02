@@ -1,0 +1,25 @@
+[10]
+Capacity: 2
+Size: 1
+[10, 15]
+Capacity: 2
+Size: 2
+[10, 15, 12]
+Capacity: 4
+Size: 3
+[10, 15, 12, 3]
+Capacity: 4
+Size: 4
+[10, 15, 12, 3, 4]
+Capacity: 8
+Size: 5
+[10, 15, 12, 3, 4, 13]
+Capacity: 8
+Size: 6
+[10, 15, 12, 3, 4, 13, 1]
+Capacity: 8
+Size: 7
+[10, 15, 12, 3, 4, 13]
+Element at index 1: 15
+Capacity: 8
+Size: 6
